@@ -88,15 +88,15 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Viagems",
+      title: "Viagens",
       des: "Feito para mostrar como seria feito um site de viagems",
       img: "/viagens.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://viagemspv.netlify.app/",
+      link: "https://viagenspv.netlify.app/",
     },
     {
       id: 4,
-      title: "Iphone site",
+      title: "iPhone site",
       des: "Foi feito para ser uma cópia do site do iPhone 15 pro",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
