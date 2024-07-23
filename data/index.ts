@@ -89,7 +89,7 @@ export const navItems = [
     {
       id: 3,
       title: "Viagens",
-      des: "Feito para mostrar como seria feito um site de viagems",
+      des: "Feito para mostrar como seria feito um site de viagens",
       img: "/viagens.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
       link: "https://viagenspv.netlify.app/",
@@ -185,6 +185,14 @@ export const navItems = [
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
+    {
+      id: 3,
+      title: "Curso de Desenvolvimento Web na Trybe",
+      desc: "Foi o curso que abriu as portas pra minha entrada no mundo do desenvolvimento web",
+      className: "md:col-span-2", // change to md:col-span-2
+      thumbnail: "/exp3.svg",
+    },
+
 
   ];
   
